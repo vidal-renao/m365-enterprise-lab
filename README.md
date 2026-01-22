@@ -5,7 +5,7 @@ Hands-on lab for Microsoft Entra ID, Intune and Microsoft 365 administration (en
 ## Goals
 - Build a realistic hybrid lab environment
 - Practice Entra ID, Intune, M365 security and device management
-- Document repeatable procedures (step-by-step) for interviews and real projects
+- Document repeatable procedures (step-by-step) for interviews and real projects.
 
 ## Lab modules
 - [01] Entra ID basics (users, groups, roles, MFA)
